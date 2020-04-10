@@ -1,0 +1,85 @@
+body {
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: #ADD8E6
+}
+#header{
+    line-height: 20px;
+    text-align: center;
+}
+img{
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+form{
+    background-color: white;
+    margin-left: 430px;
+    margin-right:430px;
+    margin-bottom: 50px;
+    font-size: 15px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+#main{
+    text-align: center;
+    border-radius: 3px;
+}
+h2{
+    color: blue;
+}
+
+p.select1, p.sect4{
+    margin-left: -330px;
+}
+p.select2{
+    margin-left: -300px;
+}
+p.select3{
+    margin-left: -300px;
+}
+p.select4{
+    margin-left: -330px;
+}
+p.select5{
+    margin-left: -120px;
+}
+p.select6{
+    margin-left: -130px;
+}
+.textbox{
+    width: 400px;
+    height: 50px;
+    border: none;
+    background-color: #d8d8d8;
+    border-radius: 5px;
+    text-indent: 10px;
+}
+button{
+    width: 400px;
+    height: 50px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+select{
+    width: 400px;
+    height: 50px;
+    border: none;
+    background-color: #d8d8d8;
+    border-radius: 5px;
+}
+#footer{
+    text-align: center;
+}
+.bottom{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
